@@ -9,10 +9,10 @@
 
 <p align="center">
   
-![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Dylan-SonJungin&show_icons=true&theme=vue)
+![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Dylan-SonJungin&show_icons=true&theme=shadow green)
 <br>
   
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dylan-SonJungin&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)   
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dylan-SonJungin&layout=compact&theme=shadow green)](https://github.com/anuraghazra/github-readme-stats)   
 
 </p>
 
