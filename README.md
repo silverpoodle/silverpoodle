@@ -7,23 +7,13 @@
 </div>
 
 
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
-
-
-<!--Intro start-->
-- 🏋️‍♀️ I’m currently working on **JAVA, MYSQL, Spring**
-
-- 🤼‍♀️ Learn more about me on [NOTION](https://www.notion.so/CODE-cee14eec594d4c32a6b12784196e51cf)
-
-- 🙆 Feel free to reach me out **jungin.dylan@gmail.com**
- 
-<!--Intro end-->
+<p align="center">
   
+![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Dylan-SonJungin&show_icons=true&theme=buefy)
+<br>
+  
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dylan-SonJungin&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)   
+
 </p>
 
 
