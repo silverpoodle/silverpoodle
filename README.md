@@ -10,7 +10,7 @@
 <p align="center">
   
 ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Dylan-SonJungin&show_icons=true&theme=vue)
-<br>
+
   
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dylan-SonJungin&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)   
 
