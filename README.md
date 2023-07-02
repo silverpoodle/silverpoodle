@@ -7,7 +7,7 @@
 </div>
 
 
-<p align="center">
+<p>
   
 ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Dylan-SonJungin&show_icons=true&theme=vue)
 
