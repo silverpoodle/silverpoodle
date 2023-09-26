@@ -1,11 +1,6 @@
 <div align="center">
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=6cc644&height=130&section=header)
-  
-## ABOUT ME
-<p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDylan-SonJungin&count_bg=%2382C152&title_bg=%230A4812&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Hits" />
-</p>
 
 ## TECH STACK
 <div align=center> 
@@ -40,6 +35,10 @@
 ## STATUS
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dylan-SonJungin&show_icons=true&theme=vue" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDylan-SonJungin&count_bg=%2382C152&title_bg=%230A4812&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Hits" />
 </p>
 
 <div align="center">
