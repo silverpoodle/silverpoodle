@@ -33,9 +33,7 @@
 </p>
 
 ## STATUS
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dylan-SonJungin&show_icons=true&theme=vue" alt="GitHub Stats" />
-</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dylan-SonJungin&show_icons=true&theme=vue)
 
 <p align="center">
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDylan-SonJungin&count_bg=%2382C152&title_bg=%230A4812&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Hits" />
