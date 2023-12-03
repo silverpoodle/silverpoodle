@@ -1,8 +1,10 @@
 <div align="center">
 
+
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=6cc644&height=130&section=header)
 
 ## TECH STACK
+
 <div align=center> 
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
   <br>
@@ -24,15 +26,19 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
-  
+
+
 </div>
 
 ## MOST USED LANGUAGES
+
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dylan-SonJungin&layout=compact&theme=graywhite" alt="Top Languages" />
 </p>
 
+
 ## STATUS
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dylan-SonJungin&show_icons=true&theme=vue)
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Dylan-SonJungin&show_icons=true&theme=vue) -->
@@ -41,8 +47,45 @@
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDylan-SonJungin&count_bg=%2382C152&title_bg=%230A4812&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false" alt="visitors" />
 </p>
 
+
 <div align="center">
-  
+
+
+
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>📚 Summary</b></td>
+      <td><b>🛎 Issues&PRs</b></td>
+      <td><b> Period</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/cca-ffodregamdi"><b>러닝하이🏃</b></a></td>
+      <td>러닝 코스 추천 플랫폼</td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/cca-ffodregamdi/running-hi-back?style=flat-square&labelColor=343b41"/><br><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/cca-ffodregamdi/running-hi-back?style=flat-square&labelColor=343b41"/></td>
+      <td>2023.08.07 ~ ing</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/meta-mingles"><b>Meta Mingle⭐️</b></a></td>
+      <td>숏폼, 인터랙티브 무비를 통한 문화 교류 커뮤니티 메타버스 플랫폼</td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/meta-mingles/metamingle-server?style=flat-square&labelColor=343b41"/><br><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/meta-mingles/metamingle-server?style=flat-square&labelColor=343b41"/></td>
+      <td>2023.10.07 ~ 2023.11.30</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/isthisteamisthis"><b>랄라리아🎤</b></a></td>
+      <td>AI 기반 커버 노래 공유 & 매칭 커뮤니티</td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/isthisteamisthis/lalalia_back?style=flat-square&labelColor=343b41"/><br><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/isthisteamisthis/lalalia_back?style=flat-square&labelColor=343b41"/></td>
+      <td>2023.09.06 ~ 2023.09.26</td>
+    </tr>
+      <td><a href="https://github.com/goalapa/spring-cacamuca"><b>까까무까</b></a></td>
+      <td>전세계 과자 리뷰 사이트</td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/goalapa/spring-cacamuca?style=flat-square&labelColor=343b41"/><br><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/goalapa/spring-cacamuca?style=flat-square&labelColor=343b41"/></td>
+      <td>2023.07.06 ~ 2023.07.31</td>
+    </tr>
+  </tbody>
+</table>
+
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=6cc644&height=130&section=footer) 
-
-
