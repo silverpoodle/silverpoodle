@@ -72,7 +72,7 @@
       <td><a href="https://github.com/meta-mingles"><b>Meta Mingle⭐️</b></a></td>
       <td>숏폼, 인터랙티브 무비를 통한 문화 교류 커뮤니티 메타버스 플랫폼</td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/meta-mingles/metamingle-server?style=flat-square&labelColor=343b41"/><br><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/meta-mingles/metamingle-server?style=flat-square&labelColor=343b41"/></td>
-      <td>2023.10.07 ~ 2023.11.30</td>
+      <td>2023.10.07 ~ ing</td>
     </tr>
     <tr>
       <td><a href="https://github.com/isthisteamisthis"><b>랄라리아🎤</b></a></td>
