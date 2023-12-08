@@ -7,17 +7,17 @@
 
 <div align=center> 
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
-  <br>
-  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
-  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+<!--   <br> -->
+<!--   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
+  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> -->
   <br>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
   <br>
-  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+<!--   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-  <br>
+  <br> -->
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
   <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
   <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
@@ -80,7 +80,7 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/isthisteamisthis/lalalia_back?style=flat-square&labelColor=343b41"/><br><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/isthisteamisthis/lalalia_back?style=flat-square&labelColor=343b41"/></td>
       <td>2023.09.06 ~ 2023.09.26</td>
     </tr>
-      <td><a href="https://github.com/goalapa/spring-cacamuca"><b>까까무까</b></a></td>
+      <td><a href="https://github.com/goalapa/spring-cacamuca"><b>까까무까🍪</b></a></td>
       <td>전세계 과자 리뷰 사이트</td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/goalapa/spring-cacamuca?style=flat-square&labelColor=343b41"/><br><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/goalapa/spring-cacamuca?style=flat-square&labelColor=343b41"/></td>
       <td>2023.07.06 ~ 2023.07.31</td>
