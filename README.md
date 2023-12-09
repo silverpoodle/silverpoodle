@@ -29,17 +29,12 @@
 
 
 </div>
-  <br>  <br>
 
-  <img height='195' width='410' src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dylan-SonJungin&layout=compact&theme=graywhite" alt="Top Languages" />  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dylan-SonJungin&show_icons=true&theme=vue)
+<br>  <br>
 
- <br>  <br>  <br>
-  
+<img height='170' width='410' src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Dylan-SonJungin&show_icons=true&theme=vue" alt="Numer's GitHub stats" />  [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dylan-SonJungin&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats) 
 
-
-
-  
-
+ <br>  <br>
 
 <div align="center">
 
