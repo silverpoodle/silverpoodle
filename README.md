@@ -31,7 +31,7 @@
 </div>
   <br>  <br>
 
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dylan-SonJungin&layout=compact&theme=graywhite" alt="Top Languages" />  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dylan-SonJungin&show_icons=true&theme=vue)
+  <img height='195' width='410' src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dylan-SonJungin&layout=compact&theme=graywhite" alt="Top Languages" />  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dylan-SonJungin&show_icons=true&theme=vue)
 
  <br>  <br>  <br>
   
