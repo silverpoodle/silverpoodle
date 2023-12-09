@@ -3,9 +3,9 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=6cc644&height=130&section=header)
 
-## TECH STACK
+#### TECH STACK
 
-<div align=center> 
+<div> 
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
 <!--   <br> -->
 <!--   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
@@ -29,23 +29,16 @@
 
 
 </div>
+  <br>  <br>
 
-## MOST USED LANGUAGES
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dylan-SonJungin&layout=compact&theme=graywhite" alt="Top Languages" />  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dylan-SonJungin&show_icons=true&theme=vue)
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dylan-SonJungin&layout=compact&theme=graywhite" alt="Top Languages" />
-</p>
+ <br>  <br>  <br>
+  
 
 
-## STATUS
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dylan-SonJungin&show_icons=true&theme=vue)
-
-<!-- ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Dylan-SonJungin&show_icons=true&theme=vue) -->
-
-<p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDylan-SonJungin&count_bg=%2382C152&title_bg=%230A4812&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false" alt="visitors" />
-</p>
+  
 
 
 <div align="center">
@@ -87,5 +80,9 @@
     </tr>
   </tbody>
 </table>
+
+<br><br><br>
+
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDylan-SonJungin&count_bg=%2382C152&title_bg=%230A4812&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false" alt="visitors" />
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=6cc644&height=130&section=footer) 
