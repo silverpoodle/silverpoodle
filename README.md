@@ -34,7 +34,7 @@
 
 <br>  <br>
 
-<img height='130' width='410' src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Dylan-SonJungin&show_icons=true&theme=vue" alt="Numer's GitHub stats" />  [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dylan-SonJungin&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats) 
+<img height='130' width='410' src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=silverpoodle&show_icons=true&theme=vue" alt="Numer's GitHub stats" />  [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dylan-SonJungin&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats) 
 
  <br>  <br>
 
@@ -80,6 +80,6 @@
 
 <br><br><br>
 
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDylan-SonJungin&count_bg=%2382C152&title_bg=%230A4812&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false" alt="visitors" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsilverpoodle&count_bg=%2382C152&title_bg=%230A4812&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false" alt="visitors" />
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=6cc644&height=130&section=footer) 
