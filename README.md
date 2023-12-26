@@ -34,7 +34,7 @@
 
 <br>  <br>
 
-<img height='130' width='410' src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=silverpoodle&show_icons=true&theme=vue" alt="Numer's GitHub stats" />  [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dylan-SonJungin&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats) 
+<img height='130' width='410' src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=silverpoodle&show_icons=true&theme=vue" alt="Numer's GitHub stats" />  [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=silverpoodle&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats) 
 
  <br>  <br>
 
