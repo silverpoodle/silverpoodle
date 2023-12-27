@@ -75,6 +75,12 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/goalapa/spring-cacamuca?style=flat-square&labelColor=343b41"/><br><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/goalapa/spring-cacamuca?style=flat-square&labelColor=343b41"/></td>
       <td>2023.07.06 ~ 2023.07.31</td>
     </tr>
+    </tr>
+      <td><a href="https://github.com/fixplzz"><b>도로 위 성동구🛠</b></a></td>
+      <td>전세계 과자 리뷰 사이트</td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/fixplzz/fixplz-BE?style=flat-square&labelColor=343b41"/><br><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/fixplzz/fixplz-BE?style=flat-square&labelColor=343b41"/></td>
+      <td>2023.10.01 ~ 2023.11.30</td>
+    </tr>
   </tbody>
 </table>
 
