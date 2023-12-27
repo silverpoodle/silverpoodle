@@ -77,7 +77,7 @@
     </tr>
     </tr>
       <td><a href="https://github.com/fixplzz"><b>도로 위 성동구🛠</b></a></td>
-      <td>전세계 과자 리뷰 사이트</td>
+      <td>제2회 SW개발 공모전 : 피우다 프로젝트(성동구 공공서비스 문제 해결)</td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/fixplzz/fixplz-BE?style=flat-square&labelColor=343b41"/><br><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/fixplzz/fixplz-BE?style=flat-square&labelColor=343b41"/></td>
       <td>2023.10.01 ~ 2023.11.30</td>
     </tr>
