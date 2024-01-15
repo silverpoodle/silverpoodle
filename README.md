@@ -1,4 +1,7 @@
+#### 안녕하세요! 😝
+#### 🧚🏻‍♀️ 손정인 (Jungin Son) - @silverpoodle    |    Backend Developer
 
+<br>
 
 ### ✏️Education
 <div>
