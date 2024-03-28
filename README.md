@@ -63,6 +63,28 @@
 
  <br>  <br>
 
+ <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-375%20hrs%2032%20mins-000000)
+
+
+
+
+
+```text
+💬 Programming Languages: 
+Java                     9 hrs 13 mins       █████████████████████░░░░   83.75 % 
+SQL                      36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+XML                      26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+YAML                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
+Groovy                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+```
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-944.0%20thousand%20lines%20of%20code-000000)
+
+<!--END_SECTION:waka-->
+
+<br/><br/>
+
 <table>
   <thead align="center">
     <tr border: none;>
@@ -107,26 +129,8 @@
   </tbody>
 </table>
 
-<br>
 
 <!-- <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsilverpoodle&count_bg=%2382C152&title_bg=%230A4812&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false" alt="visitors" /> -->
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-375%20hrs%2032%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-944.0%20thousand%20lines%20of%20code-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Java                     9 hrs 13 mins       █████████████████████░░░░   83.75 % 
-SQL                      36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
-XML                      26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
-YAML                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
-Groovy                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
-```
-
-
-<!--END_SECTION:waka-->
 
