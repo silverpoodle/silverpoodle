@@ -112,5 +112,42 @@
 <!-- <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsilverpoodle&count_bg=%2382C152&title_bg=%230A4812&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false" alt="visitors" /> -->
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 5.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 308 Contributions in the Year 2024
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 14 Public Repositories 
+ > 
+> 🔑 8 Private Repositories 
+ > 
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+Java                     9 hrs 13 mins       █████████████████████░░░░   83.75 % 
+SQL                      36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+XML                      26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+YAML                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
+Groovy                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+
+🔥 Editors: 
+Intellijidea             10 hrs 45 mins      ████████████████████████░   97.73 % 
+VS Code                  15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+```
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/silverpoodle/silverpoodle/main/assets/bar_graph.png)
+
+
+ Last Updated on 28/03/2024 03:21:19 UTC
 <!--END_SECTION:waka-->
 
