@@ -59,20 +59,9 @@
  <br>  <br>
 
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-435%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-436%20hrs%2016%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.1%20million%20lines%20of%20code-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Java                     9 hrs 28 mins       ██████████████████░░░░░░░   70.63 % 
-SQL                      1 hr 51 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
-YAML                     1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
-Python                   41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
-Groovy                   15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
-```
 
 
 <!--END_SECTION:waka-->
