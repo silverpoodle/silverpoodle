@@ -103,7 +103,7 @@ XML                      21 mins             █░░░░░░░░░░�
     </tr>
     <tr>
       <td><a href="https://github.com/isthisteamisthis"><b>랄라리아🎤</b></a></td>
-      <td>AI 기반 커버 노래 공유 & 매칭 커뮤니티</td>
+      <td>AI 기반 커버 노래 공유 & 가수-작곡가 매칭 모바일 앱</td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/isthisteamisthis/lalalia_back?style=flat-square&labelColor=343b41"/><br><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/isthisteamisthis/lalalia_back?style=flat-square&labelColor=343b41"/></td>
       <td>2023.09.06 ~ 2023.09.26</td>
     </tr>
