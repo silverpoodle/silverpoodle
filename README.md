@@ -91,7 +91,7 @@ Groovy                   14 mins             ░░░░░░░░░░░�
   <tbody>
     <tr>
       <td><a href="https://github.com/cca-ffodregamdi"><b>러닝하이🏃</b></a></td>
-      <td>러닝 코스 추천 플랫폼</td>
+      <td>러닝 코스 추천 모바일 앱</td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/cca-ffodregamdi/running-hi-back-v2?style=flat-square&labelColor=343b41"/><br><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/cca-ffodregamdi/running-hi-back-v2?style=flat-square&labelColor=343b41"/></td>
       <td>2023.08.07 ~ ing</td>
     </tr>
