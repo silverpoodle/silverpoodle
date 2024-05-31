@@ -59,17 +59,17 @@
  <br>  <br>
 
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-480%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-482%20hrs%2029%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.4%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Java                     4 hrs 47 mins       █████████████░░░░░░░░░░░░   50.45 % 
-SQL                      3 hrs 14 mins       █████████░░░░░░░░░░░░░░░░   34.12 % 
-JavaScript               54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
+Java                     4 hrs 47 mins       █████████████░░░░░░░░░░░░   50.39 % 
+SQL                      3 hrs 14 mins       █████████░░░░░░░░░░░░░░░░   34.20 % 
+JavaScript               54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
 JSON                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
 YAML                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
 ```
