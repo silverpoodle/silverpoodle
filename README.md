@@ -54,22 +54,32 @@
 <div align="center"> 
 
  <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-551%20hrs%206%20mins-blue)
 
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.5%20million%20lines%20of%20code-blue)
 
-🐶 **This Week I Spent My Time On** 🐶
+**🐱 My GitHub Data** 
+
+> 📦 10.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 883 Contributions in the Year 2024
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 15 Public Repositories 
+ > 
+> 🔑 10 Private Repositories 
+ > 
+📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-TypeScript               3 hrs 26 mins       ███████░░░░░░░░░░░░░░░░░░   28.21 % 
-SQL                      3 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   26.56 % 
-Java                     2 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   21.67 % 
-C++                      1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
-XML                      23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
+TypeScript               4 hrs 36 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   35.95 % 
+Java                     2 hrs 30 mins       ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   19.62 % 
+SQL                      2 hrs 28 mins       ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   19.30 % 
+C++                      1 hr 9 mins         ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.10 % 
+CSS                      44 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.81 % 
 ```
-
-![Code Time](http://img.shields.io/badge/Code%20Time-549%20hrs%2024%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.5%20million%20lines%20of%20code-blue)
 
 
 <!--END_SECTION:waka-->
