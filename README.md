@@ -53,11 +53,10 @@
 
 <div align="center"> 
 
-
  <!--START_SECTION:waka-->
 
 
-📊 **This Week I Spent My Time On** 
+🐶 **This Week I Spent My Time On** 🐶
 
 ```text
 💬 Programming Languages: 
@@ -75,14 +74,11 @@ XML                      23 mins             █░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-<br/><br/>
+<br>
 
-
-
-<img height='170' width='410' src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=silverpoodle&show_icons=true&theme=vue" alt="Numer's GitHub stats" /> 
-
- <br>  <br>
-
+<details>
+<summary>🐶 Projects 🐶</summary>
+<br>
 <table>
   <thead align="center">
     <tr border: none;>
@@ -126,8 +122,15 @@ XML                      23 mins             █░░░░░░░░░░�
     </tr>
   </tbody>
 </table>
+</details>
 
- <br>  <br>
+<br/>
+
+<details>
+<summary>🐶 My GitHub Stats 🐶</summary>
+<img height='350' width='410' src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=silverpoodle&show_icons=true&theme=vue" alt="Numer's GitHub stats" /> 
+</details>
+
 
 
 <!-- <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsilverpoodle&count_bg=%2382C152&title_bg=%230A4812&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false" alt="visitors" /> -->
