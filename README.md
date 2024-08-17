@@ -4,7 +4,7 @@
 ![Metaverse Academy](https://img.shields.io/badge/Metaverse%20Academy-white?style=for-the-badge&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBzdGFuZGFsb25lPSJubyI/Pgo8IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDIwMDEwOTA0Ly9FTiIKICJodHRwOi8vd3d3LnczLm9yZy9UUi8yMDAxL1JFQy1TVkctMjAwMTA5MDQvRFREL3N2ZzEwLmR0ZCI+CjxzdmcgdmVyc2lvbj0iMS4wIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciCiB3aWR0aD0iMjU4LjAwMDAwMHB0IiBoZWlnaHQ9Ijk0LjAwMDAwMHB0IiB2aWV3Qm94PSIwIDAgMjU4LjAwMDAwMCA5NC4wMDAwMDAiCiBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJ4TWlkWU1pZCBtZWV0Ij4KCjxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDAuMDAwMDAwLDk0LjAwMDAwMCkgc2NhbGUoMC4xMDAwMDAsLTAuMTAwMDAwKSIKZmlsbD0iIzAwMDAwMCIgc3Ryb2tlPSJub25lIj4KPHBhdGggZD0iTTE1MzggODE4IGwtNTM3IC0xMjAgLTIzOSA3MSBjLTEzMiAzOSAtMjQ4IDcxIC0yNTggNzEgLTExIDAgLTEyNgotMjMgLTI1NiAtNTIgbC0yMzggLTUxIDAgLTI5MiAwIC0yOTIgMjQ4IC03MiAyNDcgLTcyIDUzOCAxMTkgNTM4IDEyMCAyNDkKLTc0IDI0OSAtNzMgMjIzIDQ5IGMxMjMgMjcgMjMzIDUyIDI0NiA1NSBsMjIgNSAtMiAyOTIgLTMgMjkxIC0yNDUgNzMgYy0xMzUKNDAgLTI0NSA3MyAtMjQ1IDczIDAgLTEgLTI0MiAtNTUgLTUzNyAtMTIxeiBtNTMyIC0xNzMgbDAgLTI2NSAtMjIgLTUgYy0xMwotMyAtMTIyIC0yNyAtMjQzIC01NCAtMTIxIC0yNyAtNDU1IC0xMDEgLTc0MiAtMTY1IC0yODggLTY0IC01MjcgLTExNiAtNTMzCi0xMTYgLTYgMCAtMTAgOTQgLTEwIDI2NSAwIDE0NiAyIDI2NSA0IDI2NSA2IDAgMzg0IDg0IDEwMTEgMjI0IDI4MSA2MyA1MTYKMTE1IDUyMyAxMTUgOSAxIDEyIC01OCAxMiAtMjY0eiBtMjYzIDE5NCBsMjE3IC02MyAwIC0yNjMgYzAgLTE3OSAtMyAtMjYzCi0xMSAtMjYzIC05IDAgLTEzMCAzNSAtMzY2IDEwNiBsLTgzIDI1IDAgMjY1IGMwIDIwOSAzIDI2NSAxMyAyNjEgNiAtMiAxMTAKLTMzIDIzMCAtNjh6IG0tMTYwMyAtODMgYzExOCAtMzUgMjA4IC02NyAyMDAgLTcwIC04IC0zIC0xMDggLTI2IC0yMjEgLTUwCmwtMjA3IC00NSAtMjA4IDYxIGMtMTE1IDMzIC0yMTMgNjQgLTIxNyA2OCAtNyA2IDM3NyA5OCA0MTggOTkgMTEgMCAxMTcgLTI4CjIzNSAtNjN6IG0tNDUyIC0xMjYgbDIxMiAtNjMgMCAtMjY0IGMwIC0xNDUgLTQgLTI2MyAtOCAtMjYzIC01IDAgLTc4IDIxCi0xNjMgNDYgLTg1IDI1IC0xODQgNTQgLTIyMSA2NSBsLTY4IDIwIDAgMjY2IGMwIDI0OCAxIDI2NSAxOCAyNjAgOSAtMiAxMTMKLTMzIDIzMCAtNjd6IG0yMDI5IC0zNDEgYzExNyAtMzUgMjExIC02NCAyMTAgLTY2IC0yIC0yIC0xMDEgLTI1IC0yMjEgLTUyCmwtMjE2IC00OCAtMjIwIDY1IGMtMTIxIDM2IC0yMTggNjcgLTIxNiA2OSA2IDcgMzkxIDkxIDQyMSA5MiAxNyAxIDEyNiAtMjYKMjQyIC02MHoiLz4KPC9nPgo8L3N2Zz4K)
 
 
-<br> -->
+<br> 
 <div>
 
 ### 🛠️Tech Stack
@@ -35,7 +35,6 @@
   
   <br> 
 
-  -->
 
   #### Version Control
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
@@ -50,18 +49,13 @@
 
 </div>
 
-<br>  <br>
+<br>  <br> -->
 
-<div align="center">
+<div align="center"> 
 
-<img height='170' width='410' src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=silverpoodle&show_icons=true&theme=vue" alt="Numer's GitHub stats" /> 
-
- <br>  <br>
 
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-549%20hrs%2024%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.5%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -74,10 +68,20 @@ C++                      1 hr 9 mins         ██░░░░░░░░░�
 XML                      23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
 ```
 
+![Code Time](http://img.shields.io/badge/Code%20Time-549%20hrs%2024%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.5%20million%20lines%20of%20code-blue)
+
 
 <!--END_SECTION:waka-->
 
 <br/><br/>
+
+
+
+<img height='170' width='410' src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=silverpoodle&show_icons=true&theme=vue" alt="Numer's GitHub stats" /> 
+
+ <br>  <br>
 
 <table>
   <thead align="center">
@@ -122,6 +126,8 @@ XML                      23 mins             █░░░░░░░░░░�
     </tr>
   </tbody>
 </table>
+
+ <br>  <br>
 
 
 <!-- <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsilverpoodle&count_bg=%2382C152&title_bg=%230A4812&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false" alt="visitors" /> -->
