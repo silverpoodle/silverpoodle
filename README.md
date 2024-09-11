@@ -73,7 +73,7 @@ JSON                     10 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 <br>
-
+<!--
 <details>
 <summary>🐶 Projects 🐶</summary>
 <br>
@@ -123,7 +123,7 @@ JSON                     10 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 </details>
 
 <br/>
-
+-->
 <details>
 <summary>🐶 My GitHub Stats 🐶</summary>
 <img height='350' width='410' src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=silverpoodle&show_icons=true&theme=vue" alt="Numer's GitHub stats" /> 
