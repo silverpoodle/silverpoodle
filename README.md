@@ -14,14 +14,7 @@
 <div align="center"> 
 
  <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-635.30%20thousand%20lines%20of%20code-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-```
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-503.17%20thousand%20lines%20of%20code-blue)
 
 
 <!--END_SECTION:waka-->
